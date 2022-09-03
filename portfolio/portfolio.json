@@ -29,6 +29,11 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/saleo-dev/data@a8a94cab6452c7ae9680ae4b1187e10d6a308f7c/portfolio/images/African-Flowers-image.jpg",
+			"name": "AAAAA",
+			"@type": "Painting"
 		}
 	]
 }
